@@ -4,6 +4,8 @@ This simple Python script will open a local web port on `127.0.0.1:8001` You can
 ## Configuration
 Simply copy and paste these commands and you are good to go!
 ```
+$ git clone https://github.com/thetowsif/subdomain-extractor.git
+$ cd subdomain-extractor
 $ pip install -r requirements.txt
 $ pip install --upgrade Flask
 $ pip install --upgrade Jinja2
